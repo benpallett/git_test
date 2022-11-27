@@ -1,0 +1,1 @@
+hello world, im using VS Code and learning to use GitHub through the ODin Project!
